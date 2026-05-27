@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userselete",
+        "uuid": 11138325,
+        "checksum": "gcf47n"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
